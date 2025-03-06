@@ -31,8 +31,10 @@ To determine the impact of macroeconomic factors and market trends on Coca-Cola'
 
 To build predictive models to forecast future stock prices.
 
-##Results:
+## Results:
 
 Insights and visualizations on Coca-Cola's historical stock performance.
+
 Performance comparison with relevant market indexes.
+
 Predictive modeling of stock prices based on historical data.
