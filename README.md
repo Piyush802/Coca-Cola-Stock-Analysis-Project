@@ -1,19 +1,15 @@
 # Coca-Cola-Stock-Analysis
 
-**Is your feature request related to a problem? Please describe.**
+## Overview
 
-Yes, The art of forecasting stock prices has been a difficult task for many of the researchers and analysts. Investors eagerly seek effective stock price prediction systems to guide successful investments and understand future market trends.
+This project involves analyzing the historical stock price data of Coca-Cola (KO) to derive insights about its performance over time. 
+The analysis includes various aspects of the stock’s behavior, including price trends, volatility, and correlation with market indicators. The data used for this analysis has been sourced from reliable financial datasets (e.g., Yahoo Finance, Alpha Vantage).
 
-**Describe the solution**
+## Key Features:
 
-I have used the ML Models like using LSTM, SVR, SGD, Random Forest, and Decision tree Regressor using historical stock price data and relevant financial indicators, preprocess the data, performing EDA, and check the prices, and compare the model's accuracy.
+Data Collection: Retrieving historical stock price data, including opening, closing, high, low, and volume.
 
-The alternatives i Have considered Exploring additional models like ARIMA, XGBoost, or ensemble methods for potential improvement in forecasting accuracy.
-
-The dataset i have used from kaggle.
-
-Link: https://www.kaggle.com/datasets/meetnagadia/coco-cola-stock-data-19622021/data
-
-![image](https://github.com/vivekvardhan2810/Coca-Cola-Stock-Analysis/assets/91594529/4e463adb-4e92-440f-b236-61965dc4b28e)
-
-![image](https://github.com/vivekvardhan2810/Coca-Cola-Stock-Analysis/assets/91594529/0d3e9df7-aadb-48e8-8d0c-409829fd4e75)
+Exploratory Data Analysis (EDA): Visualizing stock price trends, examining patterns and distributions, and identifying any anomalies.
+Statistical Analysis: Calculating key metrics like moving averages, price changes, standard deviation, and volatility.
+Correlation Analysis: Analyzing the relationship between Coca-Cola’s stock performance and broader market trends (e.g., S&P 500, industry performance).
+Time Series Forecasting: Building predictive models using time series analysis (e.g., ARIMA, LSTM) to forecast future stock prices.
