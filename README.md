@@ -20,7 +20,9 @@ Time Series Forecasting: Building predictive models using time series analysis (
 ## Technologies Used:
 
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+
 Data Visualization (Matplotlib, Plotly)
+
 Jupyter Notebooks for analysis and documentation
 
 ## Project Objectives:
